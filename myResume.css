@@ -1,0 +1,59 @@
+body {
+	background-color: #e8eef8;
+}
+
+.headshot {
+	border-radius: 50%;
+	width: 25%;
+}
+
+.container {
+	text-align: center;
+	background-color: #677cf7;
+	color: white;
+	padding-top: 100px;
+}
+
+h2 {
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+.list {
+	/*text-align: center;*/
+
+}
+
+.exp {
+	padding-left: 30%;
+}
+
+#left {
+	padding-left: 30%;
+}
+
+#right {
+	padding-right: 30%;
+}
+
+#pro {
+	padding-bottom: 1%;
+}
+
+.msre {
+	text-align: center;
+	padding-bottom: 1%;
+}
+
+.center {
+	text-align: center;
+	width: 100%;
+	padding-bottom: 1%;
+}
+
+.card {
+	background-color: #e8eef8;
+	text-align: center;
+	padding-bottom: 45px;
+	padding-top: 35px;
+}
